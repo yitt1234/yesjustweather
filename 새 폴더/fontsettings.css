@@ -1,0 +1,19 @@
+/*h1 setting font setting part*/
+h1{
+    font-family: 'Jua', sans-serif;
+    text-align:center;
+}
+/*p setting font setting part*/
+span{
+    font-family: 'Jua', sans-serif;
+    margin-left: auto; margin-right:auto; display:block; 
+}
+body{
+    background-image: url(cloud.jpg);
+    background-repeat: no-repeat;
+    
+}
+p{
+    font-family: 'Jua', sans-serif;
+    
+}
