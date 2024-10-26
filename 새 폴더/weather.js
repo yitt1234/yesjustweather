@@ -1,6 +1,6 @@
 
 const COORDS = 'coords'
-const apikey = 'db1e8e28d93cbbabad4f0162fa37dbdf';
+const apikey = 'Your Api key';
 const wea = document.querySelector(".wea");
 
 function getweather(lat,long){
